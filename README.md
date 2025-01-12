@@ -36,21 +36,21 @@ class DataScientist:
 - Implemented using PyTorch for deep learning and Flask for web interface
 - Features real-time image processing and natural conversation flow
 - **Technologies:** PyTorch, BLIP2, Flask, Python
-- [View Project](https://github.com/Veer-w)
+- [View Project](https://github.com/Veer-w/image-question-answering-blip2.git)
 
 ### Online Ticketing Chatbot
 - Created an automated ticketing system with chatbot interface
 - Implemented ticket creation, tracking, and management using MySQL database
 - Built RESTful APIs using Flask for frontend-backend communication
 - **Technologies:** Python, Flask, MySQL, RESTful APIs
-- [View Project](https://github.com/Veer-w)
+- [View Project](https://github.com/Veer-w/online-chatbot-for-ticketing.git)
 
 ### Predictive Maintenance System
 - Developed a machine learning model for predicting equipment maintenance needs
 - Used Random Forest algorithm trained on synthetic maintenance data
 - Created interactive dashboard using Streamlit for real-time monitoring
 - **Technologies:** Python, Streamlit, scikit-learn, Random Forest
-- [View Project](https://github.com/Veer-w)
+- [View Project](https://github.com/Veer-w/testing-2.git)
 
 ## GitHub Stats 📊
 
