@@ -9,7 +9,7 @@ class DataScientist:
         self.name = "Rohan Bansode"
         self.role = "Data Scientist"
         self.skills = ["Machine Learning", "Deep Learning", "Data Analysis"]
-        self.languages = ["Python", "SQL", "R"]
+        self.languages = ["Python", "SQL"]
 ```
 
 ## Skills & Tools 🛠️
