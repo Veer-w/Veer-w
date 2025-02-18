@@ -72,7 +72,7 @@ class DataScientist:
 ## Let's Connect! 🤝
 - [LinkedIn](https://www.linkedin.com/in/rohan-bansode-4a7999239)
 - [GitHub](https://github.com/Veer-w)
-- 📧 Email: rohanbansode567@gmail.com
+- mail: rohanbansode567@gmail.com
 
 ---
 *Turning data into insights, one project at a time.*
