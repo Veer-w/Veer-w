@@ -39,10 +39,10 @@ class DataScientist:
 - [View Project](https://github.com/Veer-w/image-question-answering-blip2.git)
 
 ### Semantic-PDF-Search-Assistant
--Built an interactive PDF-based Retrieval-Augmented Generation (RAG) system for document analysis.
--Utilized ChromaDB for vector storage and sentence-transformers/all-mpnet-base-v2 for embedding generation.
--Integrated GPT-2 for generating contextual responses based on retrieved document content.
--Technologies: LangChain, ChromaDB, Sentence-Transformers, GPT-2, Streamlit, Python
+- Built an interactive PDF-based Retrieval-Augmented Generation (RAG) system for document analysis.
+- Utilized ChromaDB for vector storage and sentence-transformers/all-mpnet-base-v2 for embedding generation.
+- Integrated GPT-2 for generating contextual responses based on retrieved document content.
+- Technologies: LangChain, ChromaDB, Sentence-Transformers, GPT-2, Streamlit, Python
 - [View Project](https://github.com/Veer-w/Semantic-PDF-Search-Assistant.git)
 
 ### Online Ticketing Chatbot
