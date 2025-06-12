@@ -59,10 +59,6 @@ class DataScientist:
 - **Technologies:** Python, Streamlit, scikit-learn, Random Forest
 - [View Project](https://github.com/Veer-w/testing-2.git)
 
-## GitHub Stats 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veer-w&layout=compact&theme=radical)
-
 
 ## Currently Learning 📚
 - Advanced Computer Vision
