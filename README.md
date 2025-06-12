@@ -62,7 +62,6 @@ class DataScientist:
 ## GitHub Stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veer-w&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Veer-w&theme=algolia)
 
 
 ## Currently Learning 📚
