@@ -61,7 +61,7 @@ class DataScientist:
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veer-w&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veer-w&layout=compact&theme=radical)
 
 ## Currently Learning 📚
 - Advanced Computer Vision
