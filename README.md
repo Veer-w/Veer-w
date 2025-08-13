@@ -1,1 +1,1 @@
-I like maths
+I like maths.
